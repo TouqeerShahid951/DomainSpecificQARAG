@@ -7,6 +7,9 @@ import sys
 import os
 import importlib
 
+# This file can be used for test environment setup if needed.
+# For now, see the tests/ directory for actual test cases.
+
 def test_imports():
     """Test if all required packages can be imported."""
     print("🔍 Testing package imports...")
